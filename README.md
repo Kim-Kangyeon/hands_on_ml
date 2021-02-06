@@ -10,4 +10,8 @@ hands_on_ml
 
 ### Chapter2. 머신러닝 프로젝트 처음부터 끝까지
 
++ Chapter2. 내용 정리
++ Chapter2. 코드
+
+
 ### Chapter3. 분류
